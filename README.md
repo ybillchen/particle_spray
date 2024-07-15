@@ -24,7 +24,7 @@ $ git checkout stream_df_chen24
 $ python -m pip install .
 ```
 
-4. (Optional) Create a `ipython` kernel for the virtual environment you have just created
+4. (Optional) Create an `ipython` kernel for the virtual environment you have just created
 ```
 $ pip install ipykernel
 $ python -m ipykernel install --user --name gala_chen24 --display-name "Python (gala_chen24)"
