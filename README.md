@@ -24,11 +24,6 @@ $ git checkout stream_df_chen24
 $ python -m pip install .
 ```
 
-4. (Optional) Create an `ipython` kernel for the virtual environment you have just created
-```
-$ pip install ipykernel
-$ python -m ipykernel install --user --name gala_chen24 --display-name "Python (gala_chen24)"
-```
-    And don't forget to switch the kernel of this notebook!
+4. (Optional) Don't forget to switch the kernel of this notebook to the virtual environment you have just created!
 
 Then you are done! Let's checkout what you can do in `gala_stream.ipynb`.
