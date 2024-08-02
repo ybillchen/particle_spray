@@ -1,5 +1,7 @@
 # Particle spray algorithm by Chen et al. (2024)
 
+![Stream](data/movie.gif)
+
 Author: Yingtian "Bill" Chen
 
 I provide a notebook to generate streams using the Chen+24 model via `gala`. This implementation has not yet been merged to the `main` branch of `gala`. But you can still play with it by checking out my fork of `gala`. To do so, you need to
