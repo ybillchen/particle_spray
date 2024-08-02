@@ -1,6 +1,6 @@
 # Particle spray algorithm by Chen et al. (2024)
 
-![Stream](data/movie.gif)
+<img src="data/movie.gif" alt="Stream generation" width="60%"/>
 
 Author: Yingtian "Bill" Chen
 
