@@ -4,7 +4,7 @@
 
 Author: Yingtian "Bill" Chen
 
-I provide a notebook to generate streams using the Chen+24 model via `gala`. This implementation has not yet been merged to the `main` branch of `gala`. But you can still play with it by checking out my fork of `gala`. To do so, you need to
+We provide a notebook to generate streams using the Chen+24 model via `gala`. This implementation has not yet been merged to the `main` branch of `gala`. But you can still play with it by checking out my fork of `gala`. To do so, you need to
 
 1. (Optional) Create a new virtual environment in case you already have your own `gala` and don't want to mess it up
 ```
