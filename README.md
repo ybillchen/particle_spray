@@ -1,5 +1,9 @@
 # Particle spray algorithm by Chen et al. (2024)
 
+[![license](https://img.shields.io/github/license/ybillchen/particle_spray_chen24)](LICENSE)
+[![arXiv](https://img.shields.io/badge/NASA-ADS-blue)](https://ui.adsabs.harvard.edu/abs/2024arXiv240801496C/abstract)
+[![arXiv](https://img.shields.io/badge/arXiv-2408.01496-green)](https://arxiv.org/abs/2408.01496)
+
 <img src="data/movie.gif" alt="Stream generation" width="75%"/>
 
 Author: Yingtian "Bill" Chen
