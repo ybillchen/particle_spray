@@ -6,7 +6,7 @@
 
 <img src="data/movie.gif" alt="Stream generation" width="75%"/>
 
-Figure: positions and velocity vectors of escaped stream particles. Download the `gif` format at [`data/movie.gif`](data/movie.gif) or `mp4` format at [`data/movie.mp4`](data/movie.gif).
+Animation: positions and velocity vectors of escaped stream particles. Download the `gif` format at [`data/movie.gif`](data/movie.gif) or `mp4` format at [`data/movie.mp4`](data/movie.gif).
 
 ## Notebooks
 
