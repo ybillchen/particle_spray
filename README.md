@@ -12,10 +12,10 @@ Animation: positions and velocity vectors of escaped stream particles. Download 
 
 We provide notebooks to generate mock streams using the Chen+24 model via `gala` and `galax` (`agama` and `galpy` coming soon). Checkout these notebooks and follow the instructions therein!
 
-- `gala`: [`gala_stream.ipynb`](gala_stream.ipynb) (full support)
-- `galax`: [`galax_stream.ipynb`](galax_stream.ipynb) (partial support)
-- `agama`: Coming soon.
-- `galpy`: Coming soon.
+- `gala`: [`gala_stream.ipynb`](gala_stream.ipynb)
+- `galax`: [`galax_stream.ipynb`](galax_stream.ipynb)
+- `agama`: Coming soon
+- `galpy`: Coming soon
 
 ## Citation
 
