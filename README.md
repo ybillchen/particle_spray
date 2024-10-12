@@ -4,6 +4,7 @@
 [![license](https://img.shields.io/github/license/ybillchen/particle_spray_chen24)](LICENSE)
 [![arXiv](https://img.shields.io/badge/ADS-2024arXiv240801496C-blue)](https://ui.adsabs.harvard.edu/abs/2024arXiv240801496C/abstract)
 [![arXiv](https://img.shields.io/badge/arXiv-2408.01496-green)](https://arxiv.org/abs/2408.01496)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13923250.svg)](https://doi.org/10.5281/zenodo.13923250)
 
 <img src="data/movie.gif" alt="Stream generation" width="75%"/>
 
