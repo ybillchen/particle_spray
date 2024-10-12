@@ -1,5 +1,6 @@
 # Particle spray algorithm by Chen et al. (2024)
 
+[![version](https://img.shields.io/badge/version-v0.1.0-blue)](https://github.com/ybillchen/particle_spray)
 [![license](https://img.shields.io/github/license/ybillchen/particle_spray_chen24)](LICENSE)
 [![arXiv](https://img.shields.io/badge/ADS-2024arXiv240801496C-blue)](https://ui.adsabs.harvard.edu/abs/2024arXiv240801496C/abstract)
 [![arXiv](https://img.shields.io/badge/arXiv-2408.01496-green)](https://arxiv.org/abs/2408.01496)
