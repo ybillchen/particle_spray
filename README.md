@@ -21,6 +21,8 @@ We provide notebooks to generate mock streams using the Chen+25 model via `agama
 
 ## Citation
 
+We recommend citing this algorithm as Chen+25, although it was referred to as Chen+24 as the method paper was originally submitted to arXiv in 2024.
+
 If you use this algorithm for a publication, we kindly request you to cite the following original paper:
 
 - Y. Chen, M. Valluri, O. Y. Gnedin, & N. Ash (2025) *Improved particle spray algorithm for modeling globular cluster streams*, [ApJS](https://doi.org/10.3847/1538-4365/ad9904) **276**, 32. [arXiv:2408.01496](https://arxiv.org/abs/2408.01496), [ADS link](https://ui.adsabs.harvard.edu/abs/2025ApJS..276...32C/abstract)
