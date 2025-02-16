@@ -1,8 +1,8 @@
-# Particle spray algorithm by Chen et al. (2024)
+# Particle spray algorithm by Chen et al. (2025)
 
 [![version](https://img.shields.io/badge/version-v0.1.0-blue)](https://github.com/ybillchen/particle_spray)
-[![license](https://img.shields.io/github/license/ybillchen/particle_spray_chen24)](LICENSE)
-[![arXiv](https://img.shields.io/badge/ADS-2024arXiv240801496C-blue)](https://ui.adsabs.harvard.edu/abs/2024arXiv240801496C/abstract)
+[![license](https://img.shields.io/github/license/ybillchen/particle_spray)](LICENSE)
+[![ADS](https://img.shields.io/badge/ADS-2025ApJ...980L..18C-blue)](https://ui.adsabs.harvard.edu/abs/2025ApJ...980L..18C/abstract)
 [![arXiv](https://img.shields.io/badge/arXiv-2408.01496-green)](https://arxiv.org/abs/2408.01496)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13923250.svg)](https://doi.org/10.5281/zenodo.13923250)
 
@@ -12,7 +12,7 @@ Animation: positions and velocity vectors of escaped stream particles. Download 
 
 ## Notebooks
 
-We provide notebooks to generate mock streams using the Chen+24 model via `agama`, `gala`, `galax`, and `galpy`. Checkout these notebooks and follow the instructions therein!
+We provide notebooks to generate mock streams using the Chen+25 model via `agama`, `gala`, `galax`, and `galpy`. Checkout these notebooks and follow the instructions therein!
 
 - `agama`: [`agama_stream.ipynb`](agama_stream.ipynb)
 - `gala`: [`gala_stream.ipynb`](gala_stream.ipynb)
@@ -23,4 +23,4 @@ We provide notebooks to generate mock streams using the Chen+24 model via `agama
 
 If you use this algorithm for a publication, we kindly request you to cite the following original paper:
 
-- Y. Chen, M. Valluri, O. Y. Gnedin, & N. Ash (2024) *Improved particle spray algorithm for modeling globular cluster streams*, [arXiv:2408.01496](https://arxiv.org/abs/2408.01496), [ADS link](https://ui.adsabs.harvard.edu/abs/2024arXiv240801496C/abstract)
+- Y. Chen, M. Valluri, O. Y. Gnedin, & N. Ash (2025) *Improved particle spray algorithm for modeling globular cluster streams*, [ApJL](https://doi.org/10.3847/2041-8213/adaf93) **980**, L18. [arXiv:2408.01496](https://arxiv.org/abs/2408.01496), [ADS link](https://ui.adsabs.harvard.edu/abs/2025ApJ...980L..18C/abstract)
