@@ -12,16 +12,17 @@ Animation: positions and velocity vectors of escaped stream particles. Download 
 
 ## Notebooks
 
-We provide notebooks to generate mock streams using the Chen+25 model via `agama`, `gala`, `galax`, and `galpy`. Checkout these notebooks and follow the instructions therein!
+We provide notebooks to generate mock streams using the Chen+25 model via `agama`, `gala`, `galax`, `galpy`, and `StreaMAX`. Checkout these notebooks and follow the instructions therein!
 
 - `agama`: [`agama_stream.ipynb`](agama_stream.ipynb)
 - `gala`: [`gala_stream.ipynb`](gala_stream.ipynb)
 - `galax`: [`galax_stream.ipynb`](galax_stream.ipynb)
 - `galpy`: [`galpy_stream.ipynb`](galpy_stream.ipynb)
+- `StreaMAX`: [`David-Chemaly/StreaMAX/quick_start.ipynb`](https://github.com/David-Chemaly/StreaMAX/blob/main/quick_start.ipynb)
 
 ## Citation
 
-We recommend citing this algorithm as Chen+25, although it was referred to as Chen+24 as the method paper was originally submitted to arXiv in 2024.
+We recommend citing this algorithm as Chen+25, although it was referred to as Chen+24 since the method paper was originally submitted to arXiv in 2024.
 
 If you use this algorithm for a publication, we kindly request you to cite the following original paper:
 
